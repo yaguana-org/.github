@@ -48,7 +48,8 @@ Le guide de contribution, [CONTRIBUTING.md](https://github.com/yaguana-org/.gith
 
 ## Nos principes
 
-- **Ouvert** : le code est publié sous licence libre GNU AGPL-3.0.
+- **Ouvert** : le code est publié sous licence libre GNU AGPL-3.0, et les
+  textes de cette page sous licence CC BY-SA 4.0.
 - **Vérifié** : chaque information doit pouvoir être sourcée.
 - **Respectueux** : aucune photo ni aucun portrait n’est publié sans
   l’accord des personnes concernées.
