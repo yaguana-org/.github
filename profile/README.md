@@ -3,7 +3,7 @@
 **Le portail numérique de Léogâne, Haïti.**
 Un projet open source, par la communauté, pour la communauté.
 
-[yaguana.org](https://yaguana.org) · [Facebook](https://www.facebook.com/yaguanaOrg) · Français · Kreyòl · English
+[yaguana.org](https://yaguana.org) · [Facebook](https://www.facebook.com/yaguanaOrg) · [YouTube](https://www.youtube.com/@YaguanaOrg) · Français · Kreyòl · English
 
 ---
 
